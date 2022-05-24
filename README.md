@@ -23,7 +23,7 @@
 [Click Here To Fork](https://github.com/jackser6/jack-MD/fork)
 
 ### ⨷ SCAN QR
-  <a href="https://bit.ly/jackser-QR"><img title="jack - MD" src="https://repl.it/badge/github/quiec/whatsasena" width="300"></a>
+<a href="https://bit.ly/jackser-QR"><img title="jack - MD" src="https://repl.it/badge/github/quiec/whatsasena" width="300"></a>
 
 ### ⨷ DEPLOY
 
