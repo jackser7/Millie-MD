@@ -1,4 +1,4 @@
-# *JACK SER Multi-Device*
+# *Millie Multi-Device*
 
 <div align="center">
   <img border-radius: 15px src="https://i.imgur.com/Pf1Wynm.png" width="200" height="200"/>
@@ -11,8 +11,7 @@
 #### Please do Follow The Order
   
    
-   [![Deploy on Railway](https://railway.app/button.svg)](https://neeraj-x0
-.github.io/bot-MD/)
+   [![Deploy on Railway](https://railway.app/button.svg)](https://neeraj-x0.github.io/Millie-MD/)
 
 <br>
       
@@ -40,7 +39,6 @@
 
 </div>
 
-  
-
+    
 
 
