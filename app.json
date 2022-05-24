@@ -13,19 +13,19 @@
     "description": "Author Of sticker",
     "required": false
 },
-"PACKNAME": {𝙹𝙰𝙲𝙺 
+"PACKNAME": {
   "description": "Packname Of sticker",
   "required":false
 },
-"IMAGE": { 𝙹𝙰𝙲𝙺
+"IMAGE": { 
   "description": "Global Image",
   "required":false
 },
-"WATERMARK": { 𝙹𝙰𝙲𝙺
+"WATERMARK": { 
   "description": "𝙹𝙰𝙲𝙺",
   "required": true
 },
-"BOT_NAME": {𝙹𝙰𝙲𝙺 𝚂𝙴𝚁
+"BOT_NAME": {
   "description": "𝙹𝙰𝙲𝙺 𝚂𝙴𝚁",
   "required": true
 }
