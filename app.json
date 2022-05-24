@@ -1,11 +1,11 @@
 {
-  "name": "jackser6",
-  "logo": "https://raw.githubusercontent.com/jackser6/Millie/main/Millie/millie.jpg",
+  "name": "Neeraj-x0",
+  "logo": "https://raw.githubusercontent.com/Neeraj-x0/Millie/main/Millie/millie.jpg",
   "description": "WhatsApp Bot",
-  "repository": "https://github.com/jackser6/Millie-MD",
+  "repository": "https://github.com/Neeraj-x0/Millie-MD",
   "keywords": ["bot","whatsapp","whatsapp-bot"],
   "env": {
- "SESSION_ID": {
+ "SESSION_ID": { 
     "description": "The session ID you Recieved",
     "required": true
     },
@@ -13,19 +13,19 @@
     "description": "Author Of sticker",
     "required": false
 },
-"PACKNAME": {
+"PACKNAME": {𝙹𝙰𝙲𝙺 
   "description": "Packname Of sticker",
   "required":false
 },
-"IMAGE": {
+"IMAGE": { 𝙹𝙰𝙲𝙺
   "description": "Global Image",
   "required":false
 },
-"WATERMARK": {
+"WATERMARK": { 𝙹𝙰𝙲𝙺
   "description": "𝙹𝙰𝙲𝙺",
   "required": true
 },
-"BOT_NAME": {
+"BOT_NAME": {𝙹𝙰𝙲𝙺 𝚂𝙴𝚁
   "description": "𝙹𝙰𝙲𝙺 𝚂𝙴𝚁",
   "required": true
 }
