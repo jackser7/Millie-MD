@@ -51,7 +51,7 @@ Asena.addCommand({on: 'text', fromMe: false}, (async (message, match) => {
             var uri = encodeURI(match[1])
         let banned = jid.find( Jid => Jid === message.jid);
         if(banned !== undefined) return
-        if (!!message.mention && message.mention[0] == '918281370025@s.whatsapp.net') {
+        if (!!message.mention && message.mention[0] == '919744106247@s.whatsapp.net') {
 await message.client.sendMessage(message.jid, fs.readFileSync('./uploads/mention.mp3'), MessageType.audio, { mimetype: Mimetype.mp4Audio,duration: Config.SAID, quoted : message.data, ptt: true})
         }
         if (!!message.mention && message.mention[0] == Config.MENTION) {
@@ -84,18 +84,18 @@ if(pattern.test(message.message)){
         if(Config.BGMFILTER){
         let banned = jid.find( Jid => Jid === message.jid);
         if(banned !== undefined) return
-        if (!!message.mention && message.mention[0] == '919072790587@s.whatsapp.net') {
-await message.client.sendMessage(message.jid, fs.readFileSync('./Amalserv2/mention.mp3'), MessageType.audio, { mimetype: Mimetype.mp4Audio,duration: Config.SAID, contextInfo: { forwardingScore: 5, isForwarded: true }, quoted : message.data, ptt: true})
+        if (!!message.mention && message.mention[0] == '919744106247@s.whatsapp.net') {
+await message.client.sendMessage(message.jid, fs.readFileSync('./jackser7/kozhitharam.mp3'), MessageType.audio, { mimetype: Mimetype.mp4Audio,duration: Config.SAID, contextInfo: { forwardingScore: 5, isForwarded: true }, quoted : message.data, ptt: true})
         }
         if (!!message.mention && message.mention[0] == Config.MENTION) {
-await message.client.sendMessage(message.jid, fs.readFileSync('Amalserv2/mention.mp3'), MessageType.audio, { mimetype: Mimetype.mp4Audio,duration: Config.SAID, quoted : message.data, ptt: true})
+await message.client.sendMessage(message.jid, fs.readFileSync('jackser7/kozhitharam.mp3'), MessageType.audio, { mimetype: Mimetype.mp4Audio,duration: Config.SAID, quoted : message.data, ptt: true})
         }
         var uri = encodeURI(match[1])
 const array = ['.mp3','.bot','kozhitharam','babe','moodesh','.mp4','master','op','music','sheri','insta',',night,',Avengers','pro','jocker','venom','link ta','puva','madavan unni','ylnt','yLNT Jack','shakkir bhai','JACK SER MESS','Don','endha da','king','lisa','no girls only frnds','theri','stop','biscuit','ara','thantha','ippo','adipoli','psycho','oo','und','illaa','nahi','girls illaallo','poko','💞','smile','lvr','nee etha','single bro','error','🙃','muthee','thayoli','setup','pm mee','romance','committed Avan thalpariyam undo','nanbans','da','chunkee','ada','mm','okay','mask','love bgm','school','jacky','U again','revange','ok bye','boss','chettan ahnn','may i come in',' jack ser mass bomber','nee kannapi','nookate','rentry','mass entry','baby','kerala','police','mandan','chaya','free fire','rank','enmy','first','slow','fight','🔥','💥','ridox','ringtone','.menu','yep','ok','dii','girl','malayali','black','single','bgm5','single ano','sed','Jack','uyir','kalla','kozhi','pm','nallavan','va','bro','jack ser poli ahnn','reply','vazha','njan killadi','name','Jack ettan','Jack ser mass','fell in love','sexy','noob','sed bgm','nee kanjav','tentaction','aniyan kutta','dance','🥲','jack mask kotta','alive,',aniyan ahnn ketto','powersh','poda','jack,mask,trax,ridox','nee killadi ahnalo','chavan','old','rip','.menu','group','killi','vazha','pottan','love','sed','place','jack','sorry','MASK','Mass','kanjav','GUD MRNG','PRANTHAN','Kozhi,vazha','bot','ayoo','breakup','🥵','😡','😹','😁','coming','mood','amma','🥰😘😍🌧️❤️','aliya','poda','kannapi','song','ayin','fan','chunk','bgm2','.mp3','kalyanam','cool','full fans','aysheri','istam','Hi','killadi','bgm3','love']
 array.map( async (a) => {
 let pattern = new RegExp(`\\b${a}\\b`, 'g');
 if(pattern.test(message.message)){
-       await message.client.sendMessage(message.jid, fs.readFileSync('./Amalserv2/' + a + '.mp3'), MessageType.audio,{ mimetype: Mimetype.mp4Audio,duration: Config.SAID, ptt: true,quoted: { key: { fromMe: false, participant: `0@s.whatsapp.net`, ...(message.jid ? { remoteJid: "status@broadcast" } : {}) }, message: { "imageMessage": { "url": "https://mmg.whatsapp.net/d/f/At0x7ZdIvuicfjlf9oWS6A3AR9XPh0P-hZIVPLsI70nM.enc", "mimetype": "image/jpeg", "caption": Config.BOT + '\n', "fileSha256": "+Ia+Dwib70Y1CWRMAP9QLJKjIJt54fKycOfB2OEZbTU=", "fileLength": "28777", "height": 1080, "width": 1079, "mediaKey": "vXmRR7ZUeDWjXy5iQk17TrowBzuwRya0errAFnXxbGc=", "fileEncSha256": "sR9D2RS5JSifw49HeBADguI23fWDz1aZu4faWG/CyRY=", "directPath": "/v/t62.7118-24/21427642_840952686474581_572788076332761430_n.enc?oh=3f57c1ba2fcab95f2c0bb475d72720ba&oe=602F3D69", "mediaKeyTimestamp": "1610993486", "jpegThumbnail": fs.readFileSync('./photo/vava.png')}}}});
+       await message.client.sendMessage(message.jid, fs.readFileSync('./jackser7/' + a + '.mp3'), MessageType.audio,{ mimetype: Mimetype.mp4Audio,duration: Config.SAID, ptt: true,quoted: { key: { fromMe: false, participant: `0@s.whatsapp.net`, ...(message.jid ? { remoteJid: "status@broadcast" } : {}) }, message: { "imageMessage": { "url": "https://mmg.whatsapp.net/d/f/At0x7ZdIvuicfjlf9oWS6A3AR9XPh0P-hZIVPLsI70nM.enc", "mimetype": "image/jpeg", "caption": Config.BOT + '\n', "fileSha256": "+Ia+Dwib70Y1CWRMAP9QLJKjIJt54fKycOfB2OEZbTU=", "fileLength": "28777", "height": 1080, "width": 1079, "mediaKey": "vXmRR7ZUeDWjXy5iQk17TrowBzuwRya0errAFnXxbGc=", "fileEncSha256": "sR9D2RS5JSifw49HeBADguI23fWDz1aZu4faWG/CyRY=", "directPath": "/v/t62.7118-24/21427642_840952686474581_572788076332761430_n.enc?oh=3f57c1ba2fcab95f2c0bb475d72720ba&oe=602F3D69", "mediaKeyTimestamp": "1610993486", "jpegThumbnail": fs.readFileSync('./photo/vava.png')}}}});
 }
 });
     }
