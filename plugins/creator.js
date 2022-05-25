@@ -15,7 +15,31 @@ let handler = async(m, { conn }) => {
                fs.readFileSync('./media/audio/12.mpeg'),
                fs.readFileSync('./media/audio/13.mpeg'),
                fs.readFileSync('./media/audio/14.mpeg')]
-  let audio = pickRandom(sound)
+               fs.readFileSync('./media/audio/.mp3')]
+               fs.readFileSync('./media/').menu]
+               fs.readFileSync('./media/audio/kozhitharam')] 
+               fs.readFileSync('./media/audio/ babe')]
+               fs.readFileSync('./media/audio/moodesh')]
+               fs.readFileSync('./media/audio/.menu')]
+               fs.readFileSync('./media/audio/.mp4')]
+               fs.readFileSync('./media/audio/master')]
+               fs.readFileSync('./media/audio/op')]
+               fs.readFileSync('./media/audio/music')]
+               fs.readFileSync('./media/audio/sheri')]
+
+
+
+
+
+
+
+
+
+
+
+
+
+ let audio = pickRandom(sound)
   let msg = "🎈ɴᴏ ᴄᴀʟʟs ᴏɴʟʏ ᴍᴇssᴀɢᴇ"
   let name= m.sender
   let mail = 'krishnaneeraj775@gmail.com'
